@@ -4,8 +4,8 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	"github.com/yourusername/yourproject/node"
-	"github.com/yourusername/yourproject/subscription"
+	"proxypool/node"
+	"proxypool/subscription"
 )
 
 func main() {
